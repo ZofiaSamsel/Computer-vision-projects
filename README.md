@@ -7,6 +7,11 @@ Programs were written in p5.js. In some Teachable Machine was used (https://teac
 
 Program that allows you to recognize the outline of a person and change the background behind them. 
 
+Below you can see how the project works:
+
+![tło_zmaina](https://user-images.githubusercontent.com/79842403/210638759-93ab840a-0eab-406a-bedc-3ed0e08ffcd1.PNG)
+
+
 ## Project 2. **Clown Mask, Face and Body recognition**
 
 Used BodyPix for body segmentation and PoseNet to collect the person's position in the camera. 
@@ -14,6 +19,11 @@ The program allows real-time detection of the person in the camera. Two scenario
 
   1) clicking the mouse button - allows a clown mask to be placed on the person 
   2) clicking the 'S' key on the keyboard - allows points to be applied to the person's body and gloves to the hands 
+
+Below you can see how the project works:
+
+![klaun i święta](https://user-images.githubusercontent.com/79842403/210638837-8ec6e5bc-c768-4dab-8b02-6e8db6ccdca1.png)
+
 
 ## Project 3. **Pose recognition JOJO**
 
